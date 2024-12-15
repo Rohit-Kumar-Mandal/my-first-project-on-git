@@ -1,3 +1,4 @@
 import os
-print(os.getcwd())
+getpwd = os.getcwd()
+print(getpwd)
 print(os.mkdir("rohit"))
